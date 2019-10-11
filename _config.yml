@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:rainzhop/rainzhop.github.io.git
+  repo: https://github.com/rainzhop/rainzhop.github.io.git
   branch: master
 
 avatar: /assets/avatar.jpg
@@ -92,7 +92,7 @@ baidusitemap:
 math:
   engine: 'mathjax' # or 'katex'
   mathjax:
-    src: custom_mathjax_source
+    # src: custom_mathjax_source
     config:
       # MathJax config
   katex:

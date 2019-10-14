@@ -24,7 +24,11 @@
 #### 新建文章
 
 ```bash
-hexo new <new-post-name>
+hexo new <new-post-name>  # 新建新文章
+
+hexo new draft <new-post-name>  # 新建草稿
+hexo s --draft  # 预览草稿
+hexo p <new-post-name>  # 发布
 ```
 
 #### 启动本地服务调试

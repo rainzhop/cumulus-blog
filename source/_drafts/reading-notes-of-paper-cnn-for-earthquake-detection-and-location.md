@@ -8,8 +8,25 @@ tags: 机器学习,地震
 > 原文地址：[CNN for Earthquake Detection and Location](/assets/e1700578.full.pdf)
 > 作者：Thibaut Perol, Michaël Gharbi, Marine Denolle
 
-诱发地震
 
-注水，废水处理井
+
+## 背景
+
+诱发地震（废水处理井导致）
 
 地震噪声
+
+### 传统地震检测方法
+
+波形相似度、波形自相关。
+
+优点：鲁棒、可靠。
+
+缺点：计算密集型、不适合长期时间序列。
+
+
+
+
+
+重复地震
+

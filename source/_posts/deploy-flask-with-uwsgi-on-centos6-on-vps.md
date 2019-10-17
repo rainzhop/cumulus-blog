@@ -1,6 +1,6 @@
 ---
 title: 在CentOS6.6上使用uWSGI部署Flask应用
-tags: 技术
+tags: [flask, web]
 date: 2017-03-15 21:57:40
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 初学Git，记录一下常用命令
+title: 『笔记』初学Git，记录一下常用命令
 date: 2014-08-09 00:00:00
-tags: 技术
+tags: [git, 笔记]
 ---
 
 >最近参照[308tube](http://308tube.com/youtube/)的[Git入门教程](http://www.308tube.com/youtube/git/index.html)学习了一下Git的使用，下面是学习时记录的一些常用命令。

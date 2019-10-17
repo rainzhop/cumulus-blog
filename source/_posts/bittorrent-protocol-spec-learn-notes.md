@@ -1,7 +1,7 @@
 ---
 title: 『笔记』BitTorrent协议学习
 date: 2016-05-14 00:00:00
-tags: 技术
+tags: [bt, 协议, 笔记]
 ---
 
 心血来潮，想学习下BitTorrent协议，做个学习笔记~

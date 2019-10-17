@@ -1,6 +1,6 @@
 ---
 title: mysql-tutorial-by-tencent-cloud
-tags: 数据库, mysql
+tags: [笔记, mysql]
 ---
 
 腾讯云搞数据库诊断大赛，提供了一份入门课程，这就拿来复习一下。

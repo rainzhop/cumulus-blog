@@ -1,7 +1,7 @@
 ---
 title: 『渣译』Linux内核链表的解释
 date: 2014-12-19 00:00:00
-tags: 技术
+tags: [链表, 渣译]
 ---
 
 > 原文地址：[Linux Kernel Linked List Explained](https://isis.poly.edu/kulesh/stuff/src/klist/)

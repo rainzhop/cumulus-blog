@@ -1,7 +1,7 @@
 ---
 title: 记录我在CoolShell Puzzle的闯关过程
 date: 2014-08-04 00:00:00
-tags: 技术
+tags: 游戏
 ---
 
 

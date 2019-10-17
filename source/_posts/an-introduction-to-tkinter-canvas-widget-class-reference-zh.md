@@ -1,7 +1,7 @@
 ---
 title: 『渣译』Tkinter简介 - Canvas组件
 date: 2017-02-19 19:20:30
-tags: 技术
+tags: [gui, tkinter, 渣译]
 ---
 
 > 原文地址：<br>http://effbot.org/tkinterbook/canvas.htm

@@ -1,7 +1,7 @@
 ---
 title: 我也来试试Jekyll + GitHub Pages
 date: 2014-07-23 00:00:00
-tags: 技术
+tags: blog
 ---
 
 今天尝试在GitHub上使用Jekyll搭建Blog，正好就将过程记录下来作为一篇文章吧。

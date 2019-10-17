@@ -19,6 +19,7 @@
   npm install hexo --save
   npm install hexo-math --save
   npm install hexo-deployer-git --save
+  npm install hexo-generator-sitemap --save
   ```
 
 #### 新建文章

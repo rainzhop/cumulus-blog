@@ -86,8 +86,6 @@ avatar: /assets/avatar.jpg
 
 sitemap:
   path: sitemap.xml
-baidusitemap:
-  path: baidusitemap.xml
 
 math:
   engine: 'mathjax' # or 'katex'

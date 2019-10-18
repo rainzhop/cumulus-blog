@@ -12,14 +12,11 @@
   git clone git@github.com:rainzhop/cumulus-blog.git
   ``````
 
-* 进入仓库目录，安装hexo
+* 进入仓库目录，安装hexo及相关包
 
   ```bash
   cd cumulus-blog
-  npm install hexo --save
-  npm install hexo-math --save
-  npm install hexo-deployer-git --save
-  npm install hexo-generator-sitemap --save
+  npm i
   ```
 
 #### 新建文章
